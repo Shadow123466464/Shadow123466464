@@ -58,6 +58,7 @@ Learning and building web applications using the Symfony framework while explori
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadow123466464&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow123466464&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
