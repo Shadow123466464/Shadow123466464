@@ -38,14 +38,19 @@ I'm a third-year Software Engineering student at ESPRIT who enjoys building appl
 
 ## Projects
 
-### University Management Platform
+### Web-Innovators (University Management Platform)
 A web application developed using PHP, MySQL, HTML, CSS, and JavaScript following the MVC architecture.
 
-### Desktop Management System
+### Smart_Vax (Desktop Management System)
 A Qt/C++ desktop application connected to a database with CRUD operations, charts, statistics, and user management.
 
 ### Symfony Projects
 Learning and building web applications using the Symfony framework while exploring modern backend development practices.
+
+### Momentum
+Momentum is a full-stack productivity platform designed to provide a seamless experience across desktop and web environments. The project combines a **Java desktop application** with a **Symfony web application**, both connected to a **shared database**, ensuring synchronized data and a consistent user experience regardless of the platform.
+
+**Technologies:** Java • Symfony • PHP • MySQL • Git
 
 ## Currently learning
 
@@ -53,14 +58,6 @@ Learning and building web applications using the Symfony framework while explori
 - Software Architecture
 - Design Patterns
 - REST APIs
-
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadow123466464&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow123466464&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ## Connect with me
 
