@@ -1,4 +1,4 @@
-# Hi, I'm Dahen 👋
+# Hi, I'm Shadow 👋
 
 I'm a third-year Software Engineering student at ESPRIT who enjoys building applications that solve practical problems. I like working across the stack, from designing user interfaces to developing backend logic and databases.
 
