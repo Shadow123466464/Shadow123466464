@@ -103,6 +103,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow123466464&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Mana%20Flow%20%E2%80%94%20Contribution%20Activity" width="95%" alt="Activity graph"/>
 
+<br/><br/>
+
+*A shadow beast devours the mana crystals...*
+
+<img src="https://raw.githubusercontent.com/Shadow123466464/Shadow123466464/output/shadow-snake.svg" width="95%" alt="Shadow snake devouring contributions"/>
+
 </div>
 
 <br/>
