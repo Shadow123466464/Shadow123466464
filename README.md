@@ -92,8 +92,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shadow123466464&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow123466464&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shadow123466464&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shadow123466464&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" alt="Top languages"/>
 
 <br/><br/>
 
