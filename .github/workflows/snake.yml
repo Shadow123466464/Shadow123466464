@@ -47,14 +47,14 @@ jobs:
           THEME: dark
           OUTPUT_PATH: dist/streak-stats.svg
           HIDE_BORDER: "true"
-          BACKGROUND: "0d1117"
-          RING: "7c3aed"
-          FIRE: "a78bfa"
-          CURR_STREAK_NUM: "c4b5fd"
-          SIDE_NUMS: "c9d1d9"
-          CURR_STREAK_LABEL: "8b5cf6"
-          DATES: "6b7280"
-          STROKE: "4c1d95"
+          BACKGROUND: "#0d1117"
+          RING: "#7c3aed"
+          FIRE: "#a78bfa"
+          CURR_STREAK_NUM: "#c4b5fd"
+          SIDE_NUMS: "#c9d1d9"
+          CURR_STREAK_LABEL: "#8b5cf6"
+          DATES: "#6b7280"
+          STROKE: "#4c1d95"
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
