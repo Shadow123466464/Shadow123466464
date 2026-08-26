@@ -103,13 +103,6 @@
 
 <img src="https://raw.githubusercontent.com/Shadow123466464/Shadow123466464/output/activity-graph.svg" width="95%" alt="Activity graph"/>
 
-<br/><br/>
-
-*A shadow beast devours the mana crystals...*
-
-<img src="https://raw.githubusercontent.com/Shadow123466464/Shadow123466464/output/shadow-snake.svg" width="95%" alt="Shadow snake devouring contributions"/>
-
-</div>
 
 <br/>
 
