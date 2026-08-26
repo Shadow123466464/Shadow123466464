@@ -97,11 +97,11 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Shadow123466464&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=c4b5fd&sideNums=c9d1d9&sideLabels=8b5cf6&dates=6b7280&stroke=4c1d95" alt="Streak stats"/>
+<img src="https://raw.githubusercontent.com/Shadow123466464/Shadow123466464/output/streak-stats.svg" alt="Streak stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow123466464&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Mana%20Flow%20%E2%80%94%20Contribution%20Activity" width="95%" alt="Activity graph"/>
+<img src="https://raw.githubusercontent.com/Shadow123466464/Shadow123466464/output/activity-graph.svg" width="95%" alt="Activity graph"/>
 
 <br/><br/>
 

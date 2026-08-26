@@ -39,6 +39,31 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats card
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: dark
+          OUTPUT_PATH: dist/streak-stats.svg
+          HIDE_BORDER: "true"
+          BACKGROUND: "0d1117"
+          RING: "7c3aed"
+          FIRE: "a78bfa"
+          CURR_STREAK_NUM: "c4b5fd"
+          SIDE_NUMS: "c9d1d9"
+          CURR_STREAK_LABEL: "8b5cf6"
+          DATES: "6b7280"
+          STROKE: "4c1d95"
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Mana%20Flow%20%E2%80%94%20Contribution%20Activity
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
